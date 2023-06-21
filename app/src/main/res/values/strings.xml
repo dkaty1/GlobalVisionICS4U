@@ -1,0 +1,157 @@
+
+<resources>
+
+    <!-- String resources -->
+
+    <!-- App name -->
+    <string name="app_name">GlobalVision</string>
+
+    <!-- Favorite collections -->
+    <string name="favorite_collections">Favorite Collections</string>
+
+    <!-- Recent -->
+    <string name="align_your_body">Recent</string>
+
+    <!-- Happy -->
+    <string name="ab1_inversions">Happy</string>
+
+    <!-- Memories -->
+    <string name="ab2_quick_yoga">Memories</string>
+
+    <!-- Funny -->
+    <string name="ab3_stretching">Funny</string>
+
+    <!-- Sad -->
+    <string name="ab4_tabata">Sad</string>
+
+    <!-- Ojibway -->
+    <string name="ab5_hiit">Ojibway</string>
+
+    <!-- Indian -->
+    <string name="ab6_pre_natal_yoga">Indian</string>
+
+    <!-- Short mantras -->
+    <string name="fc1_short_mantras">Short mantras</string>
+
+    <!-- Nature meditations -->
+    <string name="fc2_nature_meditations">Nature meditations</string>
+
+    <!-- Stress and anxiety -->
+    <string name="fc3_stress_and_anxiety">Stress and anxiety</string>
+
+    <!-- Self massage -->
+    <string name="fc4_self_massage">Self massage</string>
+
+    <!-- Overwhelmed -->
+    <string name="fc5_overwhelmed">Overwhelmed</string>
+
+    <!-- Nightly wind down -->
+    <string name="fc6_nightly_wind_down">Nightly wind down</string>
+
+    <!-- Start (for FAB button) -->
+    <string name="cd_fab_start">start</string>
+
+    <!-- Bottom navigation labels -->
+    <string name="bottom_navigation_home">HOME</string>
+    <string name="bottom_navigation_profile">PROFILE</string>
+
+    <!-- Search placeholder -->
+    <string name="placeholder_search">Search</string>
+
+    <!-- Main camera -->
+    <string name="maincamera_home">CAMERA</string>
+
+    <!-- Title for MenuTop -->
+    <string name="title_activity_menu_top">MenuTop</string>
+
+    <!-- Title for Home -->
+    <string name="title_home">Home</string>
+
+    <!-- Title for Dashboard -->
+    <string name="title_dashboard">Dashboard</string>
+
+    <!-- Title for Notifications -->
+    <string name="title_notifications">Notifications</string>
+
+    <!-- Affirmation strings -->
+    <string name="affirmation1">I am strong.</string>
+    <string name="affirmation2">I believe in myself.</string>
+    <string name="affirmation3">Each day is a new opportunity to grow and be a better version of myself.</string>
+    <string name="affirmation4">Every challenge in my life is an opportunity to learn from.</string>
+    <string name="affirmation5">I have so much to be grateful for.</string>
+    <string name="affirmation6">Good things are always coming into my life.</string>
+    <string name="affirmation7">New opportunities await me at every turn.</string>
+    <string name="affirmation8">I have the courage to follow my heart.</string>
+    <string name="affirmation9">Things will unfold at precisely the right time.</string>
+    <string name="affirmation10">I will be present in all the moments that this day brings.</string>
+
+    <!-- FAQs -->
+
+    <!-- FAQs app name -->
+    <string name="app_names">FAQs</string>
+
+    <!-- FAQ Q1 -->
+
+    <string name="question_name_1">Q1</string>
+
+    <!-- FAQ Q2 -->
+    <string name="question_name_2">Q2</string>
+
+    <!-- FAQ Q3 -->
+    <string name="question_name_3">Q3</string>
+
+    <!-- FAQ Q4 -->
+    <string name="question_name_4">Q4</string>
+
+    <!-- FAQ Q5 -->
+    <string name="question_name_5">Q5</string>
+
+    <!-- FAQ Q6 -->
+    <string name="question_name_6">Q6</string>
+
+    <!-- FAQ Q7 -->
+    <string name="question_name_7">Q7</string>
+
+    <!-- FAQ Q8 -->
+    <string name="question_name_8">Q8</string>
+
+    <!-- FAQ Q9 -->
+    <string name="question_name_9">Q9</string>
+
+    <!-- FAQ Descriptions -->
+    <!-- FAQ Q1 description -->
+    <string name="question_description_1">Who was Global Vision made for?</string>
+
+    <!-- FAQ Q2 description -->
+    <string name="question_description_2">When was GlobalVision created?</string>
+
+    <!-- FAQ Q3 description -->
+    <string name="question_description_3">What technology does GlobalVision use?</string>
+
+    <!-- FAQ Q4 description -->
+    <string name="question_description_4">How can I create a new user?</string>
+
+    <!-- FAQ Q5 description -->
+    <string name="question_description_5">How can I add a photo to a collection?</string>
+
+    <!-- FAQ Q6 description -->
+    <string name="question_description_6">How can I use the text-to-speech feature?</string>
+
+    <!-- FAQ Q7 description -->
+    <string name="question_description_7">How can I turn off the text-to-speech?</string>
+
+    <!-- FAQ Q8 description -->
+    <string name="question_description_8">How long did it take to code program Global Vision?</string>
+
+    <!-- FAQ Q9 description -->
+    <string name="question_description_9">What language and toolkit does Global Vision use?</string>
+
+    <!-- Other information and labels -->
+    <string name="about">Answer:</string>
+    <string name="bottomOther">Other Information:</string>
+    <string name="staty">Stats:</string>
+
+    <!-- Expand button content description -->
+    <string name="expand_button_content_description">See more or less information about FAQ.</string>
+
+</resources>

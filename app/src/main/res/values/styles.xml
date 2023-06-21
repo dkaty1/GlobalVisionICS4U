@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Defines a custom style named "roundimageview" -->
+    <style name="roundimageview" parent="">
+        <!-- Specifies the corner family as "rounded" -->
+        <item name="cornerFamily">rounded</item>
+        <!-- Sets the corner size to 50dp -->
+        <item name="cornerSize">50dp</item>
+        <!-- Sets the color to white -->
+        <item name="color">@color/white</item>
+    </style>
+
+</resources>

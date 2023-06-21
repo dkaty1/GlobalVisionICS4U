@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Defines the custom theme named "Theme.MySoothe" -->
+    <style name="Theme.MySoothe" parent="Theme.MaterialComponents.DayNight">
+        <!-- Sets the color of the status bar -->
+        <item name="android:statusBarColor">@color/status_bar_color</item>
+        <!-- Determines whether the status bar icons should be light or dark based on the "isLightTheme" attribute -->
+        <item name="android:windowLightStatusBar">?attr/isLightTheme</item>
+    </style>
+</resources>
